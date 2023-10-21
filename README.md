@@ -7,5 +7,5 @@ En bref, nous commençons dans une salle de viel époque et il y une plateforme 
 
 
 ## Environnement virtuel:
-![environnement](medias/environnement_virtuel.png)
+![environnement](medias/)
 
