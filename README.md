@@ -3,8 +3,8 @@ En bref, nous commençons dans une salle de viel époque et il y une plateforme 
 
 
 ## Moodboard:
-![moodboard](medias/moodboard_vr)
+![moodboard](medias/moodboard_vr.png)
 
 
 ## Environnement virtuel:
-![moodboard](medias/moodboard_vr)
+![moodboard](medias/environnement virtuel.png)
