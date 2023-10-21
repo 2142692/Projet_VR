@@ -7,4 +7,4 @@ En bref, nous commençons dans une salle de viel époque et il y une plateforme 
 
 
 ## Environnement virtuel:
-![moodboard](medias/environnement virtuel.png)
+![environnement](medias/environnement_virtuel.png)
