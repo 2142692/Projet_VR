@@ -1,2 +1,2 @@
-# Des portes à choix
-En gros, le jeu va commencer dans une pièce dans l'aquelle il y aura des porte avec des choix écrit dessus. Avant choisir, il y aura une situation et il faut adapter nos choix selon cette situation. mais il faut bien choisir, car chaque choix ont une répercution plus tard.
+# Un puzzle game avec un ascenseur temporel
+En bref, nous commençons dans une salle de viel époque et il y une plateforme en gise d'ascenseur qui nous fait passer d'étage en étage. À chaque étage c'est la même salle mais à une époque différente. Quand nous arrivons à cette pièce nous avons des missions et des énigme qu'il faut résoudre pour que l'ascenseur puise monter.
