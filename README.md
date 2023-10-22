@@ -9,3 +9,7 @@ En bref, nous commençons dans une salle de viel époque et il y une plateforme 
 ## Environnement virtuel:
 ![environnement](medias/environnement.png)
 
+
+
+## Schéma
+![schema](medias/schema_vr.png)
