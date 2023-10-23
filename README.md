@@ -12,4 +12,4 @@ En bref, nous commençons dans une salle de viel époque et il y une plateforme 
 
 
 ## Schéma:
-![schema](medias/)
+![schema](medias/schema_projet_vr.png)
